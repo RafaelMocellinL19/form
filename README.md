@@ -1,2 +1,2 @@
 # form
-Formulário com validação e conferencia de senhas
+Formulário com validação de email e conferencia de senhas digitadas.
